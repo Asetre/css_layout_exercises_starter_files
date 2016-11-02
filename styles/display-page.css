@@ -1,0 +1,38 @@
+body {
+	font-size: 0;
+}
+
+body div {
+	border: solid black 1px;
+	display: inline-block;
+}
+
+.green, .blue {
+	width: 50%;
+	height: 200px;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.grey, .black, .orange {
+	width: 33.3333%;
+	height: 300px;
+}
+
+.grey {
+	background-color: grey;
+}
+
+.black {
+	background-color: black;
+}
+
+.orange {
+	background-color: orange;
+}
